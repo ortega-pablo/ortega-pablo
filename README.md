@@ -12,6 +12,5 @@
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico p.ortegariera@gmail.com o enviarme un mensaje a mi perfil de linkedin [https://www.linkedin.com/in/ortega-pablo/](https://www.linkedin.com/in/ortega-pablo/)
 
-- 🛠 Mis trabajos:
-- 🎮 [Proyecto Individual de Henry](https://pi-video-games-ten.vercel.app/) , [Repositorio del proyecto](https://github.com/ortega-pablo/PI-VideoGames)
-- 🛒 [Proyecto Final de Henry en Equipo](https://final-project-beryl.vercel.app/) , [Repositorio del proyecto](https://github.com/ortega-pablo/Final-Project)
+- 💼 Portafolio:
+- [https://pablo-ortega.vercel.app/](https://pablo-ortega.vercel.app/)
